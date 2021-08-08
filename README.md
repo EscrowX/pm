@@ -10,7 +10,7 @@ We are located in Poland (🇵🇱). We are 100% remote company, without a physi
 
 ### How we work
 
-* development process (gitflow to onboard new developers)
+* [development process](https://github.com/EscrowX/pm/blob/main/guides/development-workflow.md) (gitflow to onboard new developers)
 
 ## Navigate EscrowX' Github
 
